@@ -2,6 +2,7 @@
 Emoji library made with love
 
 # How to Apply
+```
 <pre>
     <div class="container">
         <div class="block two first">
@@ -23,7 +24,7 @@ Emoji library made with love
         </div>
     </div>
 </pre>
-
+```
 
 
  
