@@ -35,13 +35,15 @@ margin: 0;
 // close emojis
 const close = document.createElement('a')
 close.style = `position: absolute;
-    top: 0px;
+    top: -5px;
     right: 0px;
-    color: black;
+    color:black;
+    padding:5px;
+    height:30px;
     text-decoration: none;`
     close.setAttribute('href', "javascript:void(0)")
-    close.setAttribute("class", "close");
-    close.innerHTML = "<ion-icon name='close-outline' class='closes' style='font-size: 1.7rem;'></ion-icon>"
+    close.setAttribute("class", "close-emoji");
+    close.innerHTML = "✕"
     close.onclick = () => {
     emojiPicker.style.display = emojiPicker.style.display === 'block' ? 'none' : 'block';
   }
