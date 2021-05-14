@@ -4,12 +4,12 @@ Emoji library made with love
 # How to Apply
 Link all files or download and put it in your project
 CDN
-Script
+# Script
 ```
 <script src="https://raw.githack.com/Junzlay/emoji-library/main/emoji-hover.js"></script>
 <script src="https://raw.githack.com/Junzlay/emoji-library/main/emoji.js"></script>
 ```
-Css
+# Css
 
 ```
 <link rel="stylesheet" href="https://raw.githack.com/Junzlay/emoji-library/main/emoji.css">
