@@ -14,7 +14,7 @@ CDN
 ```
 <link rel="stylesheet" href="https://raw.githack.com/Junzlay/emoji-library/main/emoji.css">
 ```
-Add to your javascript to iniatialize emoji
+Add to your javascript to initialize emoji
 ```
 window.EmojiPicker.init()
 ```
