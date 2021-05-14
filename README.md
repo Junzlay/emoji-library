@@ -2,7 +2,7 @@
 Emoji library made with love
 
 # How to Apply
-Link all files or download it put in your project
+Link all files or download and put it in your project
 CDN
 Script
 ```
