@@ -10,7 +10,6 @@ Add input in your HTML
       
 ```
  <input type="text" data-emoji="true" name="emoji"  placeholder="Send a message..."/>
-       
 ```
  
  Done!
