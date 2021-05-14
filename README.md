@@ -6,13 +6,13 @@ Link all files or download and put it in your project
 CDN
 Script
 ```
-<script src="https://rawcdn.githack.com/Junzlay/emoji-library/265ca357e912b659bf50854dad6b3bdb9a54e53c/emoji-hover.js"></script>
-<script src="https://rawcdn.githack.com/Junzlay/emoji-library/265ca357e912b659bf50854dad6b3bdb9a54e53c/emoji.js"></script>
+<script src="https://raw.githack.com/Junzlay/emoji-library/main/emoji-hover.js"></script>
+<script src="https://raw.githack.com/Junzlay/emoji-library/main/emoji.js"></script>
 ```
 Css
 
 ```
-<link rel="stylesheet" href="https://rawcdn.githack.com/Junzlay/emoji-library/265ca357e912b659bf50854dad6b3bdb9a54e53c/emoji.css">
+<link rel="stylesheet" href="https://raw.githack.com/Junzlay/emoji-library/main/emoji.css">
 ```
 Add to your javascript to iniatialize emoji
 ```
