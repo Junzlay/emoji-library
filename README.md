@@ -21,7 +21,7 @@ window.EmojiPicker.init()
 Add input in your HTML
       
 ```
- <input type="text" data-emoji="true" name="emoji"  placeholder="Send a message..."/>
+ <input type="text" data-emoji="true" id="chat-input" name="emoji"  placeholder="Send a message..."/>
 ```
  
  Done!
